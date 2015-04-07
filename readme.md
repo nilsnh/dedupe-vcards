@@ -5,7 +5,7 @@
 ## Usage
 
 1. First you'll have to install [nodejs](https://nodejs.org/).
-2. Then you'll have to download this project. And navigate inside the extracted project folder with a command prompt and execute the command `npm install`.
+2. Then you'll have to [download this project](https://github.com/nilsnh/dedupe-vcards/archive/master.zip). And navigate inside the extracted project folder with a command prompt and execute the command `npm install`.
 3. Afterwards you may run `npm start` to concatenate and deduplicate all .vcf files located inside the vcards/ folder. The program will then finish by creating a deduped-contacts.vcf inside the project folder.
 
 # Licensed under MIT
