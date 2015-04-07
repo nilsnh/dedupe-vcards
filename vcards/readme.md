@@ -1,0 +1,1 @@
+Vcard (.vcf) in this folder will be concatenated and any duplicates removed. The result will be exported to this project root folder (alongside dedupe-vcard.js).
