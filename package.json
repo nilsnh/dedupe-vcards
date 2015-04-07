@@ -4,13 +4,14 @@
   "description": "Concatenates and removes duplicate vcards from result",
   "main": "dedupe-vcards.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "mocha"
   },
   "keywords": [
     "dedupe",
     "vcards"
   ],
-  "author": "Nils Norman Haukaas",
+  "author": "Nils Norman Haukås",
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.6.0"
